@@ -1,0 +1,39 @@
+For my project, I use Java technology, SQL as RDBMS and “The Framework Design at Galaxy using Swing”.
+
+The most of people love to play computer games, So I decided to develop CODE “Auto Code Generator ” as my project.
+
+Now a day’s, Generating Code through Java  Advanced is very Lengthy  or complex  Process , hence  We are trying to reduce the efforts to  
+
+generate code for newcomers .It saves our lots of Time  & efforts . For that purpose ,
+gmrg'ekrjgioergj'agknarlglkadfmg'kljdflgkdf'lkjuser only needs to enter  some values to set the Size, height, width, Colour , Alignment etc. then its gives Direct Code on Text pad & Controls On UI. 
+
+With the help of such type of application newcomers can consume their time & efforts.
+
+We can full fill the user requirements as  well as they can make changes in it as per the requirements.
+
+We have developed the Java Code Generator that will provide the Java Code which is useful to Java working staff ,newcomers and  Java users .
+With the help of such types of application, educational institutes can do their work efficiently , smoothly and transferently .
+
+Anyone can generate code or create Java code easily with the help of this Software.
+Modules :
+1.	Project Entry form :-
+      Given Input –It is to Entry all Forms.
+      Expected Output – All data Stored in database.
+2.	 Add Project form : -
+     Given Input –It is to add New Project.
+     Expected Output – All data Stored in database.
+3.	Add Component Form : -
+     Given Input –It is to add New Project Component.
+     Expected Output – All data Stored in database.
+4.	Display Code form :-
+     Given Input –It is to Display Project Code.
+     Expected Output – All Code  Display  on Text Pad.
+5.	Project Info Form : -
+    Given Input –It displays all Forms & reports.
+     Expected Output – All data Stored in database.
+•	This Project is useful for New comers or persons who have known to Java.
+•	This project generate code using Java advanced.
+•	It saves our times & efforts.
+•	Easy to maintain in future Projects.
+If You Want T run This Project First Of All You Wan't To download the Project Files 
+Then You can connect the database file to the system..
